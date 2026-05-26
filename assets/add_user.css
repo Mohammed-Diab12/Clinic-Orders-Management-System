@@ -1,0 +1,24 @@
+  body {
+            background: #111;
+            color: #fff;
+            padding-top: 40px;
+        }
+        .card {
+            background: #1c1c1c;
+            border: 1px solid #333;
+            border-radius: 14px;
+        }
+        .form-control {
+            background: #222;
+            border-color: #444;
+            color: white;
+        }
+        .btn-gym {
+            background: linear-gradient(135deg, #00ff88, #00c76b);
+            color: #000;
+            font-weight: bold;
+        }
+        .btn-gym:hover {
+            filter: brightness(1.1);
+        }
+        label { color: #d2d2d2; }
